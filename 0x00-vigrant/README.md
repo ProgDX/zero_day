@@ -1,2 +1,1 @@
-#!/bin/bash
-readme
+Install Vagrant Procedure
